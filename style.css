@@ -1,0 +1,13 @@
+body {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+#text {
+    width: 50%;
+    height: 50vh;
+}
